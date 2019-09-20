@@ -1,0 +1,2 @@
+This is a test file for git quick start demo
+This is second git test file
